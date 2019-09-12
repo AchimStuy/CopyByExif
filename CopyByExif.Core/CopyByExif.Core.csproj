@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
-    <Version>1.2019.912.1517</Version>
+    <Version>1.2019.912.1529</Version>
   </PropertyGroup>
 
   <ItemGroup>

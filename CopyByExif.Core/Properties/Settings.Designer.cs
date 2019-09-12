@@ -25,7 +25,7 @@ namespace CopyByExif.Core.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("{Year}\\{Month}-{Day}")]
+        [global::System.Configuration.DefaultSettingValueAttribute("{year}\\{month}-{day}")]
         public string DirectoryStructure {
             get {
                 return ((string)(this["DirectoryStructure"]));

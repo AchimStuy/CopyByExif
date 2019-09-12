@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="DirectoryStructure" Type="System.String" Scope="User">
-      <Value Profile="(Default)">{Year}\{Month}-{Day}</Value>
+      <Value Profile="(Default)">{year}\{month}-{day}</Value>
     </Setting>
     <Setting Name="FromDirectory" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
